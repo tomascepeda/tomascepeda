@@ -1,1 +1,1 @@
-[![](https://github.com/tomascepeda/tomascepeda/blob/master/dino.gif)](#)
+[![](https://github.com/tomascepeda/tomascepeda/blob/main/dino.gif)](#)
