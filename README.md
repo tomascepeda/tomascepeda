@@ -8,7 +8,7 @@ Developer with over 4 years of experience in designing, developing, and deployin
 
 ##
 
-### Stack
+### Skills
 
 #### Back-end
 ![Java](https://img.shields.io/badge/Java-17+-orange?style=flat&logo=java&logoColor=white)
@@ -41,13 +41,21 @@ Developer with over 4 years of experience in designing, developing, and deployin
 
 ##
 
+### Experience
+
+| [CertiSur](https://www.certisur.com/en) | [Lamansys](https://www.lamansys.com/es) |
+|----------|----------|
+| **Role**: Backend Engineer  <br> **From**: Jan 2023 – Present <br> **Description**: Full-stack development of [Secure Doc](https://securedoc.la/), a comprehensive solution for managing electronic signatures in PDF documents. Designed to streamline the signing process among multiple users, the service sets the signing order and defines an expiration date, ensuring efficient and secure document management. | **Role**: Backend Developer  <br> **From**: Feb 2022 – Dec 2022 <br> **Description**: Active collaboration in the development of the API for web application [Historia de Salud Integrada](https://www.argentina.gob.ar/salud/digital/hsi), a project led by the Ministry of Health of the Argentine Republic. It centralizes and digitizes all administrative and clinical information related to a person. |
+
+##
+
 ### Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomascepeda&show_icons=true&theme=transparent&hide=issues,contribs,prs&include_all_commits=true&show=prs_merged&rank_icon=github&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomascepeda&layout=compact&hide=php,html,smarty,css&theme=transparent&hide_border=true)
 
 ##
 
-### Relevant Projects
+### Top Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascepeda&repo=Lubricentro-Web-App&theme=transparent&hide_border=true)](https://github.com/tomascepeda/Lubricentro-Web-App)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascepeda&repo=Interfaces&theme=transparent&hide_border=true)](https://github.com/tomascepeda/Interfaces)
