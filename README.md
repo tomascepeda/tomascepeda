@@ -47,6 +47,13 @@ Developer with over 4 years of experience in designing, developing, and deployin
 
 ##
 
+### Relevant Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascepeda&repo=Lubricentro-Web-App&theme=transparent&hide_border=true)](https://github.com/tomascepeda/Lubricentro-Web-App)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tomascepeda&repo=Interfaces&theme=transparent&hide_border=true)](https://github.com/tomascepeda/Interfaces)
+
+##
+
 ### Contact
 
 [![Gmail Badge](https://img.shields.io/badge/tomascepeda15@gmail.com-c14438?style=social&logo=Gmail&logoColor=red)](mailto:tomascepeda15@gmail.com)
