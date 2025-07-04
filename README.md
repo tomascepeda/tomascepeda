@@ -6,7 +6,7 @@
 ### About
 Developer with over 4 years of experience in designing, developing, and deploying critical technology solutions. I have participated in highly complex projects in the financial, government, and corporate sectors, contributing to the creation of secure, optimized, and scalable platforms that support essential processes. These experiences have allowed me to work in challenging environments where precision and reliability are paramount.
 
-🖥️ Visit my personal portfolio: [www.tomascepeda.com](https://www.tomascepeda.com)
+Visit my personal portfolio: [tomascepeda.com](https://www.tomascepeda.com)
 
 ##
 
@@ -68,4 +68,6 @@ Developer with over 4 years of experience in designing, developing, and deployin
 
 [![Gmail Badge](https://img.shields.io/badge/tomascepeda15@gmail.com-c14438?style=social&logo=Gmail&logoColor=red)](mailto:tomascepeda15@gmail.com)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tomas_Cepeda-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/tomas-cepeda/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tomas_Cepeda-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/tomas-cepeda/)
+
+[![Chrome Badge](https://img.shields.io/badge/My_Personal_Portfolio-Contact-Informational?style=social&logo=googlechrome)](https://www.tomascepeda.com/contact)
