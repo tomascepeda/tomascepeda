@@ -66,7 +66,7 @@ Visit my personal portfolio: [tomascepeda.com](https://www.tomascepeda.com)
 
 ### Contact
 
-[![Gmail Badge](https://img.shields.io/badge/tomascepeda15@gmail.com-c14438?style=social&logo=Gmail&logoColor=red)](mailto:tomascepeda15@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/contacto@tomascepeda.com-c14438?style=social&logo=Gmail&logoColor=red)](mailto:contacto@tomascepeda.com)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Tomas_Cepeda-blue?style=social&logo=LinkedIn)](https://www.linkedin.com/in/tomas-cepeda/)
 
